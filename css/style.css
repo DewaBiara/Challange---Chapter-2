@@ -46,6 +46,12 @@ h6 {
 }
 
 
+@media screen and (max-width: 768px)  {
+    .offcanvas{
+        --bs-offcanvas-width: 200px;
+    }
+}
+
 .nav-menu1{
     width: 97px;
     height: 36px;
