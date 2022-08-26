@@ -41,6 +41,13 @@ h6 {
     padding-left: 50%;
 }
 
+@media screen and (max-width: 768px)  {
+    .navbarstyle{
+        padding-left: 20px;
+        padding-top: 50px;
+    }
+}
+
 .navbarstyle2{
     padding-top: 25px;
 }
