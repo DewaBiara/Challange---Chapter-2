@@ -1273,6 +1273,16 @@ color: #000000;
     }
 }
 
+.carousel-style{
+    max-width: 60%; 
+}
+
+@media screen and (max-width: 768px){
+    .carousel-style{
+        max-width: 90%; 
+    }
+}
+
 .copyright{
     width: 100px;
     height: 34px;
